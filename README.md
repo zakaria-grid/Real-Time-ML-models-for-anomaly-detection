@@ -14,6 +14,10 @@ The repository contains several resources (papers, code sources, presentations) 
 
 ### Presentations:
 
+- [Fase data injection attack project] (https://github.com/zakaria-grid/Real-Time-ML-models-for-anomaly-detection/blob/main/%20FDI%20Attack%20Presentation.pdf)
+- [THAT model presentation](https://github.com/zakaria-grid/Real-Time-ML-models-for-anomaly-detection/blob/main/RTML%20presentation.pdf)
+- [Faults location and detection's poster](https://github.com/zakaria-grid/Real-Time-ML-models-for-anomaly-detection/blob/main/NASPI.pdf)
+- 
 
 
 ### Codes and datasets: 
@@ -28,7 +32,6 @@ The repository contains several resources (papers, code sources, presentations) 
   - [Dataset](https://github.com/zakaria-grid/Real-Time-ML-models-for-anomaly-detection/blob/main/Fault%20location%20and%20duration%20dataset.csv)
 
 - Transfer Adaptive Hoeffding Tree (THAT) model:
--   [Code](https://github.com/zakaria-grid/Real-Time-ML-models-for-anomaly-detection/blob/main/HT.ipynb)
--   [MOA Code](https://github.com/zakaria-grid/Real-Time-ML-models-for-anomaly-detection/blob/main/MOA%20command.txt)
--   [Dataset] (https://github.com/zakaria-grid/Real-Time-ML-models-for-anomaly-detection/blob/main/Dataset7_4signatures.csv)
--  
+  -   [Code](https://github.com/zakaria-grid/Real-Time-ML-models-for-anomaly-detection/blob/main/HT.ipynb)
+  -   [MOA Code](https://github.com/zakaria-grid/Real-Time-ML-models-for-anomaly-detection/blob/main/MOA%20command.txt)
+  -   [Dataset] (https://github.com/zakaria-grid/Real-Time-ML-models-for-anomaly-detection/blob/main/Dataset7_4signatures.csv)
