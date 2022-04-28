@@ -12,6 +12,10 @@ The repository contains several resources (papers, code sources, presentations) 
 
 *) Z. E. Mrabet, P. Ranganathan, S. Abhyyamkar, "Classification of Fault Location and Prediction of Its Location Using Machine Learning Models in the Power System”, 2020 NASPI Work Group Virtual Meeting, https://www.naspi.org/node/794
 
+### Presentations:
+
+
+
 ### Codes and datasets: 
 
 
