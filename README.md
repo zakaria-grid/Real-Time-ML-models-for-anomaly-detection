@@ -15,8 +15,8 @@ This repository contains several resources (papers, code sources, presentations)
 ### Presentations:
 
 - Fase data injection attack project: [Presentation](https://github.com/zakaria-grid/Real-Time-ML-models-for-anomaly-detection/blob/main/%20FDI%20Attack%20Presentation.pdf) | [Poster](https://github.com/zakaria-grid/Real-Time-ML-models-for-anomaly-detection/blob/main/FDI%20Poster%20.pdf)
-- [THAT model presentation](https://github.com/zakaria-grid/Real-Time-ML-models-for-anomaly-detection/blob/main/RTML%20presentation.pdf)
-- [Faults location and detection's poster](https://github.com/zakaria-grid/Real-Time-ML-models-for-anomaly-detection/blob/main/NASPI.pdf)
+- THAT model: [Presentation](https://github.com/zakaria-grid/Real-Time-ML-models-for-anomaly-detection/blob/main/RTML%20presentation.pdf)
+- Faults location and detection's project: [Poster](https://github.com/zakaria-grid/Real-Time-ML-models-for-anomaly-detection/blob/main/NASPI.pdf) | [Video presentation](https://youtu.be/Lwruwu90KJI)
 
 ### Codes and datasets: 
 
@@ -24,6 +24,6 @@ This repository contains several resources (papers, code sources, presentations)
 
 - Detecting faults location and duration project: [Code](https://github.com/zakaria-grid/Real-Time-ML-models-for-anomaly-detection/blob/main/RFR_Project.ipynb) | [Dataset](https://github.com/zakaria-grid/Real-Time-ML-models-for-anomaly-detection/blob/main/Fault%20location%20and%20duration%20dataset.csv)
 
-- Transfer Adaptive Hoeffding Tree (THAT) model: [Python code](https://github.com/zakaria-grid/Real-Time-ML-models-for-anomaly-detection/blob/main/HT.ipynb)
+- Transfer Adaptive Hoeffding Tree (THAT) model: [Python code part 1](https://github.com/zakaria-grid/Real-Time-ML-models-for-anomaly-detection/blob/main/HT.ipynb)
 | [MOA code](https://github.com/zakaria-grid/Real-Time-ML-models-for-anomaly-detection/blob/main/MOA%20command.txt)
 | [Dataset](https://github.com/zakaria-grid/Real-Time-ML-models-for-anomaly-detection/blob/main/Dataset7_4signatures.csv)
