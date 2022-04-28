@@ -1,3 +1,5 @@
+C:\>java -cp moa.jar moa .DoTask EvaluateInterleavedTestThenTrain -l (trees.HoeffdingAdaptiveTree -s GiniSplitCriterion -c 0.6) -s (ArffFileStream -f (C:\Users\zakaria.elmrabet\Dropbox\Research\2019\Smart Grid Research\Papers\FDI Extended\Resutls\Dataset\normal_IAO_H_UB.arff)) -f 1 -q 10 > results_HAT.csv
+
 Insert the concept drift into a stream
 
 WriteStreamToARFFFile -s (ConceptDriftRealStream -s (ArffFileStream -f (C:\Users\zakaria.elmrabet\Dropbox\Research\2019\Smart Grid Research\Papers\FDI Extended\Resutls\Dataset6.csv.arff)) -d (generators.SEAGenerator -f 2) -p 100 -w 100) -f example2.arff
