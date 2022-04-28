@@ -1,8 +1,8 @@
 # Real-time-ML-models-for-anomaly-detection
 
-This repository includes several ressources (papers, code source, presentations) related to detect anomalies in power systems in real-time. 
+The repository contains several resources (papers, code sources, presentations) regarding the detection of anomalies in power systems in real-time. 
 
-## List of peer-reviewed journals and conferences: 
+### List of peer-reviewed journals and conferences: 
 
 *) Z. E. Mrabet, P. Prakash, “Random Forest Regressor-Based Approach for Detecting Fault Location and Duration in Power Systems,” Sensors 2022, 22, 458. https://doi.org/10.3390/s22020458
 
