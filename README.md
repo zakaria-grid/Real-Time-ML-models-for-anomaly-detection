@@ -1,6 +1,6 @@
 # Real-time-ML-models-for-anomaly-detection
 
-The repository contains several resources (papers, code sources, presentations) regarding the detection of anomalies in power systems in real-time. 
+This repository contains several resources (papers, code sources, presentations) regarding the detection of anomalies in power systems in real-time. 
 
 ### List of peer-reviewed journals and conferences: 
 
@@ -14,24 +14,16 @@ The repository contains several resources (papers, code sources, presentations) 
 
 ### Presentations:
 
-- [Fase data injection attack project] (https://github.com/zakaria-grid/Real-Time-ML-models-for-anomaly-detection/blob/main/%20FDI%20Attack%20Presentation.pdf)
+- Fase data injection attack project: [Presentation](https://github.com/zakaria-grid/Real-Time-ML-models-for-anomaly-detection/blob/main/%20FDI%20Attack%20Presentation.pdf) | [Poster](https://github.com/zakaria-grid/Real-Time-ML-models-for-anomaly-detection/blob/main/FDI%20Poster%20.pdf)
 - [THAT model presentation](https://github.com/zakaria-grid/Real-Time-ML-models-for-anomaly-detection/blob/main/RTML%20presentation.pdf)
 - [Faults location and detection's poster](https://github.com/zakaria-grid/Real-Time-ML-models-for-anomaly-detection/blob/main/NASPI.pdf)
-- 
-
 
 ### Codes and datasets: 
 
+- False data injection attack project: [Code](https://github.com/zakaria-grid/Real-Time-ML-models-for-anomaly-detection/blob/main/FDI_Code.ipynb) | [Dataset](https://github.com/zakaria-grid/Real-Time-ML-models-for-anomaly-detection/blob/main/FDI_dataset.csv)
 
-- False data injection attack project:
-  - [Code](https://github.com/zakaria-grid/Real-Time-ML-models-for-anomaly-detection/blob/main/FDI_Code.ipynb)
-  - [Dataset](https://github.com/zakaria-grid/Real-Time-ML-models-for-anomaly-detection/blob/main/FDI_dataset.csv)
+- Detecting faults location and duration project: [Code](https://github.com/zakaria-grid/Real-Time-ML-models-for-anomaly-detection/blob/main/RFR_Project.ipynb) | [Dataset](https://github.com/zakaria-grid/Real-Time-ML-models-for-anomaly-detection/blob/main/Fault%20location%20and%20duration%20dataset.csv)
 
-- Detecting faults location and duration project:
-  - [Code](https://github.com/zakaria-grid/Real-Time-ML-models-for-anomaly-detection/blob/main/RFR_Project.ipynb)
-  - [Dataset](https://github.com/zakaria-grid/Real-Time-ML-models-for-anomaly-detection/blob/main/Fault%20location%20and%20duration%20dataset.csv)
-
-- Transfer Adaptive Hoeffding Tree (THAT) model:
-  -   [Code](https://github.com/zakaria-grid/Real-Time-ML-models-for-anomaly-detection/blob/main/HT.ipynb)
-  -   [MOA Code](https://github.com/zakaria-grid/Real-Time-ML-models-for-anomaly-detection/blob/main/MOA%20command.txt)
-  -   [Dataset] (https://github.com/zakaria-grid/Real-Time-ML-models-for-anomaly-detection/blob/main/Dataset7_4signatures.csv)
+- Transfer Adaptive Hoeffding Tree (THAT) model: [Python code](https://github.com/zakaria-grid/Real-Time-ML-models-for-anomaly-detection/blob/main/HT.ipynb)
+| [MOA code](https://github.com/zakaria-grid/Real-Time-ML-models-for-anomaly-detection/blob/main/MOA%20command.txt)
+| [Dataset](https://github.com/zakaria-grid/Real-Time-ML-models-for-anomaly-detection/blob/main/Dataset7_4signatures.csv)
