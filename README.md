@@ -14,9 +14,9 @@ This repository contains several resources (papers, code sources, presentations)
 
 ### Presentations:
 
-- Fase data injection attack project: [Presentation](https://github.com/zakaria-grid/Real-Time-ML-models-for-anomaly-detection/blob/main/%20FDI%20Attack%20Presentation.pdf) | [Poster](https://github.com/zakaria-grid/Real-Time-ML-models-for-anomaly-detection/blob/main/FDI%20Poster%20.pdf)
-- THAT model: [Presentation](https://github.com/zakaria-grid/Real-Time-ML-models-for-anomaly-detection/blob/main/RTML%20presentation.pdf)
-- Faults location and detection's project: [Poster](https://github.com/zakaria-grid/Real-Time-ML-models-for-anomaly-detection/blob/main/NASPI.pdf) | [Video presentation](https://youtu.be/Lwruwu90KJI)
+- False data injection attack project: [Presentation](https://github.com/zakaria-grid/Real-Time-ML-models-for-anomaly-detection/blob/main/%20FDI%20Attack%20Presentation.pdf) | [Poster](https://github.com/zakaria-grid/Real-Time-ML-models-for-anomaly-detection/blob/main/FDI%20Poster%20.pdf) | [Video presentation](https://ndusbpos-my.sharepoint.com/:v:/g/personal/zakaria_elmrabet_ndus_edu/EVTCIQ3-J0VGnl6ueJIQCFEB6a5dSpgjvuKxQjEBianoDA?e=FtOIcp) 
+- THAT model: [Presentation](https://github.com/zakaria-grid/Real-Time-ML-models-for-anomaly-detection/blob/main/RTML%20presentation.pdf) | [Video presentation](https://ndusbpos-my.sharepoint.com/:v:/g/personal/zakaria_elmrabet_ndus_edu/Ee8_mp9iOo1Auxx_ilr_YhAB48qA7fLR8tDO-_ZLGPCD_g?e=VymFNE)
+- Faults location and detection's project: [Poster](https://github.com/zakaria-grid/Real-Time-ML-models-for-anomaly-detection/blob/main/NASPI.pdf) | [Video presentation](https://ndusbpos-my.sharepoint.com/:v:/g/personal/zakaria_elmrabet_ndus_edu/ESgT22d2S6FDrCSjvHT1bwEBNznQ1v87Tc_YGLVMpKplaA?e=3zCDgY)
 
 ### Codes and datasets: 
 
