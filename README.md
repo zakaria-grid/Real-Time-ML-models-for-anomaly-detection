@@ -12,3 +12,13 @@ The repository contains several resources (papers, code sources, presentations) 
 
 *) Z. E. Mrabet, P. Ranganathan, S. Abhyyamkar, "Classification of Fault Location and Prediction of Its Location Using Machine Learning Models in the Power System”, 2020 NASPI Work Group Virtual Meeting, https://www.naspi.org/node/794
 
+### Codes and datasets: 
+
+
+*) https://github.com/zakaria-grid/Real-Time-ML-models-for-anomaly-detection/blob/main/FDI_Code.ipynb
+
+*) https://github.com/zakaria-grid/Real-Time-ML-models-for-anomaly-detection/blob/main/FDI_dataset.csv
+
+*) https://github.com/zakaria-grid/Real-Time-ML-models-for-anomaly-detection/blob/main/RFR_Project.ipynb
+
+*) https://github.com/zakaria-grid/Real-Time-ML-models-for-anomaly-detection/blob/main/Fault%20location%20and%20duration%20dataset.csv
