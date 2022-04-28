@@ -26,3 +26,9 @@ The repository contains several resources (papers, code sources, presentations) 
 - Detecting faults location and duration project:
   - [Code](https://github.com/zakaria-grid/Real-Time-ML-models-for-anomaly-detection/blob/main/RFR_Project.ipynb)
   - [Dataset](https://github.com/zakaria-grid/Real-Time-ML-models-for-anomaly-detection/blob/main/Fault%20location%20and%20duration%20dataset.csv)
+
+- Transfer Adaptive Hoeffding Tree (THAT) model:
+-   [Code](https://github.com/zakaria-grid/Real-Time-ML-models-for-anomaly-detection/blob/main/HT.ipynb)
+-   [MOA Code](https://github.com/zakaria-grid/Real-Time-ML-models-for-anomaly-detection/blob/main/MOA%20command.txt)
+-   [Dataset] (https://github.com/zakaria-grid/Real-Time-ML-models-for-anomaly-detection/blob/main/Dataset7_4signatures.csv)
+-  
